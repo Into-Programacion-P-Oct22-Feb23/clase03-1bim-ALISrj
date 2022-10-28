@@ -14,6 +14,9 @@ public class Ejemplo03 {
     /**
      * @param args the command line arguments
      */
+    /*
+       Hoy es viernes.
+    */
     public static void main(String[] args) {
         // Tipos de dato en Java
         
@@ -45,6 +48,9 @@ public class Ejemplo03 {
         
         boolean variable9 = false;
         boolean variable10 = true;
+        boolean variable11 = false;
+        
+        // variable11 = variable10;
     }
     
 }
