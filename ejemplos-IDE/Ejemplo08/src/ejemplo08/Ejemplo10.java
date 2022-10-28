@@ -16,12 +16,12 @@ public class Ejemplo10 {
      */
     public static void main(String[] args) {
         // Ejemplos
-        int a = 10;
-        int b = 1;
+        int a = 10; 
+        int b = 1; 
         int c = 20;
 
-        boolean operando1 = a > b;
-        boolean operando2 = c == a;
+        boolean operando1 = a > b;// 10 mayot a 1// true
+        boolean operando2 = c == a;// 20 igual a 10 // false
         boolean valorC = operando1 && operando2;
 
         System.out.println(valorC);
